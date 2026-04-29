@@ -59,7 +59,7 @@
 | صفحه اصلی | پنجره ذخیره | تاریخچه |
 |:---------:|:-----------:|:-------:|
 | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
-
+</div>
 ---
 
 ## 📥 Download / دانلود
