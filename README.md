@@ -96,65 +96,11 @@
 
 <div dir="ltr">
 
-📧 **Email:** [hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)
+📧 **Email:** [help.whatsappdownloader@gmail.com](mailto:help.whatsappdownloader@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_PAGE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
-<div dir="rtl">
-
-📧 **ایمیل:** [hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL)
-[![Instagram](https://img.shields.io/badge/اینستاگرام-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_PAGE)
-[![GitHub](https://img.shields.io/badge/گیت‌هاب-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## 🤝 Contributing / مشارکت
-
-<div dir="ltr">
-
-We love contributions! Open issues or pull requests.
-
-1. Fork the repo
-2. Create feature branch (`git checkout -b feature/amazing`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push (`git push origin feature/amazing`)
-5. Open a Pull Request
-
-</div>
-
-<div dir="rtl">
-
-ما عاشق مشارکت شما هستیم! از issue یا pull request استقبال می‌کنیم.
-
-۱. فورک کنید
-۲. برنچ جدید بسازید (`git checkout -b feature/amazing`)
-۳. تغییرات را commit کنید (`git commit -m 'Add amazing feature'`)
-۴. پوش کنید (`git push origin feature/amazing`)
-۵. پول ریکوئست باز کنید
-
-</div>
-
----
-
-## 📄 License / مجوز
-
-<div dir="ltr">
-
-Licensed under the **MIT License** – see [LICENSE](LICENSE) file.
-
-</div>
-
-<div dir="rtl">
-
-تحت مجوز **MIT** – برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
 
 </div>
 
