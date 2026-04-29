@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" height="40"/> **WhatsApp Status Saver** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
+# <img src="https://afr-image-4.myket.ir/icons/large/239600da-6d55-4f5b-99f3-b61fe934f73b.png" width="40" height="40"/> **WhatsApp Status Saver** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
 
 ### **Save WhatsApp Statuses in Original Quality – One Tap, No Watermark**
 
