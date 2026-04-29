@@ -60,12 +60,6 @@
 |:---------:|:-----------:|:-------:|
 | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
 
-</div>
-
-> **📌 How to add real screenshots:** Go to [ImgBB](https://imgbb.com/) → upload → copy Markdown link → replace placeholder URLs.
->
-> **📌 آموزش اضافه کردن تصاویر واقعی:** به [ImgBB](https://imgbb.com/) بروید → آپلود کنید → لینک Markdown را کپی کنید → جایگزین لینک‌های placeholder کنید.
-
 ---
 
 ## 📥 Download / دانلود
