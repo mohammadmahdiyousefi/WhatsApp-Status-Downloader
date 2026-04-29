@@ -5,12 +5,14 @@
 ### **Save WhatsApp Statuses in Original Quality – One Tap, No Watermark**
 
 </div>
+
 <div align="center">
-[![Flutter](https://img.shields.io/badge/Flutter-3.22+-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.4+-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.22+-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.4+-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Platform"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"></a>
 </div>
+
 
 ---
 
