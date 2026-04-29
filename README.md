@@ -74,8 +74,8 @@
 
 | Store | Link |
 |-------|------|
-| 🟢 **Café Bazaar** | [Get it on Café Bazaar](https://cafebazaar.ir/app/com.example.whatsapp_status_saver) |
-| 🟣 **Myket** | [Get it on Myket](https://myket.ir/app/com.example.whatsapp_status_saver) |
+| 🟢 **Café Bazaar** | [Get it on Café Bazaar](https://cafebazaar.ir/app/com.app.whatsapp_downloader) |
+| 🟣 **Myket** | [Get it on Myket](https://myket.ir/app/com.app.whatsapp_downloader) |
 | 🐙 **GitHub Releases** | [Download APK from Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) |
 
 </div>
@@ -84,8 +84,8 @@
 
 | فروشگاه | لینک |
 |---------|------|
-| 🟢 **کافه بازار** | [دریافت از کافه بازار](https://cafebazaar.ir/app/com.example.whatsapp_status_saver) |
-| 🟣 **مایکت** | [دریافت از مایکت](https://myket.ir/app/com.example.whatsapp_status_saver) |
+| 🟢 **کافه بازار** | [دریافت از کافه بازار](https://cafebazaar.ir/app/com.app.whatsapp_downloader) |
+| 🟣 **مایکت** | [دریافت از مایکت](https://myket.ir/app/com.app.whatsapp_downloader) |
 | 🐙 **گیت‌هاب** | [دانلود APK از ریلیزها](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) |
 
 </div>
