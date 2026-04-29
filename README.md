@@ -13,75 +13,39 @@
 
 ---
 
-## ✨ Features
+## ✨ Features / ویژگی‌ها
 
-<div dir="ltr">
-
-- 🌟 **Original Quality** – Save exactly as uploaded, no compression  
-- ⚡ **One‑Tap Save** – Fast & effortless  
-- 📂 **In‑App Gallery** – Preview before saving  
-- 💾 **External Storage** – Save to device or SD card  
-- 🔄 **Auto‑Detect** – New statuses appear instantly  
-- 🖼️ **Images & Videos** – Support all media types  
-- 📜 **History** – Never lose your saved statuses  
-- 🔍 **Search & Filter** – Find anything quickly  
-- 🌙 **Dark Mode** – Easy on the eyes at night  
-- 🚫 **No Watermark** – Clean and original  
-- 🔒 **Privacy First** – No data collection  
-
-</div>
-
-<div dir="rtl">
-
-- 🌟 **کیفیت اصلی** – دقیقاً همان کیفیت آپلود شده، بدون فشرده‌سازی  
-- ⚡ **ذخیره با یک ضربه** – سریع و بی‌دردسر  
-- 📂 **گالری داخلی** – پیش‌نمایش قبل از ذخیره  
-- 💾 **حافظه خارجی** – ذخیره در دستگاه یا کارت حافظه  
-- 🔄 **تشخیص خودکار** – وضعیت‌های جدید فوری نمایش داده می‌شوند  
-- 🖼️ **عکس و فیلم** – پشتیبانی از همه نوع رسانه  
-- 📜 **تاریخچه** – هرگز وضعیت‌های ذخیره شده را گم نکنید  
-- 🔍 **جستجو و فیلتر** – هر چیزی را سریع پیدا کنید  
-- 🌙 **حالت شب** – مناسب برای استفاده در شب  
-- 🚫 **بدون واترمارک** – تمیز و اصلی  
-- 🔒 **حریم خصوصی** – هیچ داده‌ای جمع‌آوری نمی‌شود  
-
-</div>
+| 🇬🇧 English | 🇮🇷 Persian |
+|:-----------|:-----------|
+| 🌟 **Original Quality** – Save exactly as uploaded | 🌟 **کیفیت اصلی** – دقیقاً همان کیفیت آپلود شده |
+| ⚡ **One‑Tap Save** – Fast & effortless | ⚡ **ذخیره با یک ضربه** – سریع و بی‌دردسر |
+| 📂 **In‑App Gallery** – Preview before saving | 📂 **گالری داخلی** – پیش‌نمایش قبل از ذخیره |
+| 💾 **External Storage** – Save to device or SD card | 💾 **حافظه خارجی** – ذخیره در دستگاه یا کارت حافظه |
+| 🔄 **Auto‑Detect** – New statuses appear instantly | 🔄 **تشخیص خودکار** – وضعیت‌های جدید فوری نمایش داده می‌شوند |
+| 🖼️ **Images & Videos** – Support all media types | 🖼️ **عکس و فیلم** – پشتیبانی از همه نوع رسانه |
+| 📜 **History** – Never lose your saved statuses | 📜 **تاریخچه** – هرگز وضعیت‌های ذخیره شده را گم نکنید |
+| 🔍 **Search & Filter** – Find anything quickly | 🔍 **جستجو و فیلتر** – هر چیزی را سریع پیدا کنید |
+| 🌙 **Dark Mode** – Easy on the eyes at night | 🌙 **حالت شب** – مناسب برای استفاده در شب |
+| 🚫 **No Watermark** – Clean and original | 🚫 **بدون واترمارک** – تمیز و اصلی |
+| 🔒 **Privacy First** – No data collection | 🔒 **حریم خصوصی** – هیچ داده‌ای جمع‌آوری نمی‌شود |
 
 ---
 
-## 🎯 How It Works
+## 🎯 How It Works / نحوه کار
 
-<div dir="ltr">
+| Step | 🇬🇧 English | 🇮🇷 Persian |
+|:----:|:-----------|:-----------|
+| 1 | Open WhatsApp and view statuses as usual | واتساپ را باز کنید و وضعیت‌ها را ببینید |
+| 2 | Open **Status Saver** app | اپلیکیشن **ذخیره‌ساز وضعیت** را باز کنید |
+| 3 | All visible statuses appear automatically | تمام وضعیت‌های قابل مشاهده خودکار نمایش داده می‌شوند |
+| 4 | Tap **Save** button next to any status | روی دکمه **ذخیره** کنار هر وضعیت ضربه بزنید |
+| 5 | Media saved in original quality to your gallery | رسانه با کیفیت اصلی در گالری شما ذخیره می‌شود |
 
-| Step | Action |
-|:----:|--------|
-| 1 | Open WhatsApp and view statuses as usual |
-| 2 | Open **Status Saver** app |
-| 3 | All visible statuses appear automatically |
-| 4 | Tap the **Save** button next to any status |
-| 5 | Media is saved in original quality to your gallery |
-
-> 💡 **Pro Tip:** Preview media before saving – just tap on the thumbnail.
-
-</div>
-
-<div dir="rtl">
-
-| مرحله | عمل |
-|:----:|------|
-| ۱ | واتساپ را باز کنید و وضعیت‌ها را ببینید |
-| ۲ | اپلیکیشن **ذخیره‌ساز وضعیت** را باز کنید |
-| ۳ | تمام وضعیت‌های قابل مشاهده خودکار نمایش داده می‌شوند |
-| ۴ | روی دکمه **ذخیره** کنار هر وضعیت ضربه بزنید |
-| ۵ | رسانه با کیفیت اصلی در گالری شما ذخیره می‌شود |
-
-> 💡 **نکته حرفه‌ای:** قبل از ذخیره، روی تصویر بندانگشتی ضربه بزنید تا پیش‌نمایش را ببینید.
-
-</div>
+> 💡 **Pro Tip / نکته حرفه‌ای:** Tap on thumbnail to preview before saving / برای پیش‌نمایش قبل از ذخیره، روی تصویر بندانگشتی ضربه بزنید.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots / تصاویر برنامه
 
 <div align="center">
 
@@ -89,31 +53,19 @@
 |:-----------:|:-----------:|:-------:|
 | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
 
-</div>
-
-<div align="center" dir="rtl">
-
 | صفحه اصلی | پنجره ذخیره | تاریخچه |
 |:---------:|:-----------:|:-------:|
 | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
 
 </div>
 
-> **📌 How to add real screenshots:**  
-> 1. Go to [ImgBB](https://imgbb.com/) (no account needed)  
-> 2. Upload your app screenshots  
-> 3. Copy the **BBCode (Markdown)** link  
-> 4. Replace the `via.placeholder.com` URLs with your own links
-
-> **📌 آموزش اضافه کردن تصاویر واقعی:**  
-> ۱. به [ImgBB](https://imgbb.com/) بروید (نیاز به ثبت‌نام نیست)  
-> ۲. تصاویر برنامه خود را آپلود کنید  
-> ۳. لینک **BBCode (Markdown)** را کپی کنید  
-> ۴. لینک‌های `via.placeholder.com` را با لینک خودتان جایگزین کنید
+> **📌 How to add real screenshots:** Go to [ImgBB](https://imgbb.com/) → upload → copy Markdown link → replace placeholder URLs.
+>
+> **📌 آموزش اضافه کردن تصاویر واقعی:** به [ImgBB](https://imgbb.com/) بروید → آپلود کنید → لینک Markdown را کپی کنید → جایگزین لینک‌های placeholder کنید.
 
 ---
 
-## 📥 Download
+## 📥 Download / دانلود
 
 <div dir="ltr">
 
@@ -137,7 +89,7 @@
 
 ---
 
-## 📞 Contact & Support
+## 📞 Contact & Support / تماس و پشتیبانی
 
 <div dir="ltr">
 
@@ -161,45 +113,45 @@
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing / مشارکت
 
 <div dir="ltr">
 
-We love contributions! Feel free to open issues or pull requests.
+We love contributions! Open issues or pull requests.
 
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/amazing`)  
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)  
-4. Push (`git push origin feature/amazing`)  
+1. Fork the repo
+2. Create feature branch (`git checkout -b feature/amazing`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push (`git push origin feature/amazing`)
 5. Open a Pull Request
 
 </div>
 
 <div dir="rtl">
 
-ما عاشق مشارکت شما هستیم! خوشحال می‌شیم ایده‌ها و باگ‌ها را از طریق issue یا pull request مطرح کنید.
+ما عاشق مشارکت شما هستیم! از issue یا pull request استقبال می‌کنیم.
 
-۱. فورک کنید  
-۲. برنچ جدید بسازید (`git checkout -b feature/amazing`)  
-۳. تغییرات را commit کنید (`git commit -m 'Add some amazing feature'`)  
-۴. پوش کنید (`git push origin feature/amazing`)  
+۱. فورک کنید
+۲. برنچ جدید بسازید (`git checkout -b feature/amazing`)
+۳. تغییرات را commit کنید (`git commit -m 'Add amazing feature'`)
+۴. پوش کنید (`git push origin feature/amazing`)
 ۵. پول ریکوئست باز کنید
 
 </div>
 
 ---
 
-## 📄 License
+## 📄 License / مجوز
 
 <div dir="ltr">
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+Licensed under the **MIT License** – see [LICENSE](LICENSE) file.
 
 </div>
 
 <div dir="rtl">
 
-این پروژه تحت مجوز **MIT** منتشر شده است – برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
+تحت مجوز **MIT** – برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
 
 </div>
 
