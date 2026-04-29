@@ -1,83 +1,89 @@
-<div dir="ltr" align="center">
+<div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" height="40"/> **WhatsApp Status Saver** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
 
-### **The Ultimate Tool to Save WhatsApp Statuses in Original Quality**
+### **Save WhatsApp Statuses in Original Quality – One Tap, No Watermark**
+
+</div>
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.22+-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.4+-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-**Download & Save Statuses with One Tap – No Quality Loss, No Watermark**
+---
+
+## ✨ Features
+
+<div dir="ltr">
+
+- 🌟 **Original Quality** – Save exactly as uploaded, no compression  
+- ⚡ **One‑Tap Save** – Fast & effortless  
+- 📂 **In‑App Gallery** – Preview before saving  
+- 💾 **External Storage** – Save to device or SD card  
+- 🔄 **Auto‑Detect** – New statuses appear instantly  
+- 🖼️ **Images & Videos** – Support all media types  
+- 📜 **History** – Never lose your saved statuses  
+- 🔍 **Search & Filter** – Find anything quickly  
+- 🌙 **Dark Mode** – Easy on the eyes at night  
+- 🚫 **No Watermark** – Clean and original  
+- 🔒 **Privacy First** – No data collection  
+
+</div>
+
+<div dir="rtl">
+
+- 🌟 **کیفیت اصلی** – دقیقاً همان کیفیت آپلود شده، بدون فشرده‌سازی  
+- ⚡ **ذخیره با یک ضربه** – سریع و بی‌دردسر  
+- 📂 **گالری داخلی** – پیش‌نمایش قبل از ذخیره  
+- 💾 **حافظه خارجی** – ذخیره در دستگاه یا کارت حافظه  
+- 🔄 **تشخیص خودکار** – وضعیت‌های جدید فوری نمایش داده می‌شوند  
+- 🖼️ **عکس و فیلم** – پشتیبانی از همه نوع رسانه  
+- 📜 **تاریخچه** – هرگز وضعیت‌های ذخیره شده را گم نکنید  
+- 🔍 **جستجو و فیلتر** – هر چیزی را سریع پیدا کنید  
+- 🌙 **حالت شب** – مناسب برای استفاده در شب  
+- 🚫 **بدون واترمارک** – تمیز و اصلی  
+- 🔒 **حریم خصوصی** – هیچ داده‌ای جمع‌آوری نمی‌شود  
 
 </div>
 
 ---
 
-<div dir="rtl" align="center">
+## 🎯 How It Works
 
-# <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" height="40"/> **ذخیره‌ساز وضعیت واتساپ** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
+<div dir="ltr">
 
-### **بهترین ابزار برای ذخیره وضعیت‌های واتساپ با کیفیت اصلی**
+| Step | Action |
+|:----:|--------|
+| 1 | Open WhatsApp and view statuses as usual |
+| 2 | Open **Status Saver** app |
+| 3 | All visible statuses appear automatically |
+| 4 | Tap the **Save** button next to any status |
+| 5 | Media is saved in original quality to your gallery |
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.22+-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.4+-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+> 💡 **Pro Tip:** Preview media before saving – just tap on the thumbnail.
 
-**با یک ضربه ذخیره کن – بدون کاهش کیفیت، بدون واترمارک**
+</div>
+
+<div dir="rtl">
+
+| مرحله | عمل |
+|:----:|------|
+| ۱ | واتساپ را باز کنید و وضعیت‌ها را ببینید |
+| ۲ | اپلیکیشن **ذخیره‌ساز وضعیت** را باز کنید |
+| ۳ | تمام وضعیت‌های قابل مشاهده خودکار نمایش داده می‌شوند |
+| ۴ | روی دکمه **ذخیره** کنار هر وضعیت ضربه بزنید |
+| ۵ | رسانه با کیفیت اصلی در گالری شما ذخیره می‌شود |
+
+> 💡 **نکته حرفه‌ای:** قبل از ذخیره، روی تصویر بندانگشتی ضربه بزنید تا پیش‌نمایش را ببینید.
 
 </div>
 
 ---
 
-## ✨ **Features / ویژگی‌ها**
+## 📸 Screenshots
 
-<div dir="ltr" align="center">
-
-| 🚀 English | 🔥 Persian |
-|------------|------------|
-| 🌟 **Original Quality** – Save exactly as uploaded | 🌟 **کیفیت اصلی** – دقیقاً همان کیفیت آپلود شده |
-| ⚡ **One‑Tap Save** – Fast & effortless | ⚡ **ذخیره با یک ضربه** – سریع و بی‌دردسر |
-| 📂 **In‑App Gallery** – Preview before saving | 📂 **گالری داخلی** – پیش‌نمایش قبل از ذخیره |
-| 💾 **External Storage** – Save to device or SD card | 💾 **حافظه خارجی** – ذخیره در دستگاه یا کارت حافظه |
-| 🔄 **Auto‑Detect** – New statuses appear instantly | 🔄 **تشخیص خودکار** – وضعیت‌های جدید فوری نمایش داده می‌شوند |
-| 🖼️ **Images & Videos** – Support all media types | 🖼️ **عکس و فیلم** – پشتیبانی از همه نوع رسانه |
-| 📜 **History** – Never lose your saved statuses | 📜 **تاریخچه** – هرگز وضعیت‌های ذخیره شده را گم نکنید |
-| 🔍 **Search & Filter** – Find anything quickly | 🔍 **جستجو و فیلتر** – هر چیزی را سریع پیدا کنید |
-| 🌙 **Dark Mode** – Easy on the eyes at night | 🌙 **حالت شب** – مناسب برای شب |
-| 🚫 **No Watermark** – Clean and original | 🚫 **بدون واترمارک** – تمیز و اصلی |
-| 🔒 **Privacy First** – No data collection | 🔒 **حریم خصوصی** – هیچ داده‌ای جمع‌آوری نمی‌شود |
-
-</div>
-
----
-
-## 🎯 **How It Works / نحوه کار**
-
-<div dir="ltr" align="center">
-
-| Step | English | Persian |
-|:----:|---------|---------|
-| 1 | Open WhatsApp and view statuses as usual | واتساپ را باز کنید و وضعیت‌ها را ببینید |
-| 2 | Open **Status Saver** app | اپلیکیشن **ذخیره‌ساز وضعیت** را باز کنید |
-| 3 | All visible statuses appear automatically | تمام وضعیت‌های قابل مشاهده خودکار نمایش داده می‌شوند |
-| 4 | Tap the **Save** button next to any status | روی دکمه **ذخیره** کنار هر وضعیت ضربه بزنید |
-| 5 | Media is saved in original quality to your gallery | رسانه با کیفیت اصلی در گالری شما ذخیره می‌شود |
-
-</div>
-
-> 💡 **Pro Tip:** You can also preview media before saving – just tap on the thumbnail!
-
----
-
-## 📸 **Screenshots / تصاویر برنامه**
-
-> **⚠️ Note:** Due to internet restrictions in some regions, images are hosted externally.  
-> **توجه:** به دلیل محدودیت‌های اینترنت در برخی مناطق، تصاویر روی سرور خارجی قرار دارند.
-
-<div dir="ltr" align="center">
+<div align="center">
 
 | Main Screen | Save Dialog | History |
 |:-----------:|:-----------:|:-------:|
@@ -85,7 +91,7 @@
 
 </div>
 
-<div dir="rtl" align="center">
+<div align="center" dir="rtl">
 
 | صفحه اصلی | پنجره ذخیره | تاریخچه |
 |:---------:|:-----------:|:-------:|
@@ -93,17 +99,23 @@
 
 </div>
 
-> 🔧 **How to add real screenshots:**  
+> **📌 How to add real screenshots:**  
 > 1. Go to [ImgBB](https://imgbb.com/) (no account needed)  
 > 2. Upload your app screenshots  
 > 3. Copy the **BBCode (Markdown)** link  
 > 4. Replace the `via.placeholder.com` URLs with your own links
 
+> **📌 آموزش اضافه کردن تصاویر واقعی:**  
+> ۱. به [ImgBB](https://imgbb.com/) بروید (نیاز به ثبت‌نام نیست)  
+> ۲. تصاویر برنامه خود را آپلود کنید  
+> ۳. لینک **BBCode (Markdown)** را کپی کنید  
+> ۴. لینک‌های `via.placeholder.com` را با لینک خودتان جایگزین کنید
+
 ---
 
-## 📥 **Download / دانلود**
+## 📥 Download
 
-<div dir="ltr" align="center">
+<div dir="ltr">
 
 | Store | Link |
 |-------|------|
@@ -113,7 +125,7 @@
 
 </div>
 
-<div dir="rtl" align="center">
+<div dir="rtl">
 
 | فروشگاه | لینک |
 |---------|------|
@@ -125,9 +137,9 @@
 
 ---
 
-## 📞 **Contact & Support / تماس و پشتیبانی**
+## 📞 Contact & Support
 
-<div dir="ltr" align="center">
+<div dir="ltr">
 
 📧 **Email:** [hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)
 
@@ -137,7 +149,7 @@
 
 </div>
 
-<div dir="rtl" align="center">
+<div dir="rtl">
 
 📧 **ایمیل:** [hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)
 
@@ -149,7 +161,7 @@
 
 ---
 
-## 🤝 **Contributing / مشارکت**
+## 🤝 Contributing
 
 <div dir="ltr">
 
@@ -177,15 +189,15 @@ We love contributions! Feel free to open issues or pull requests.
 
 ---
 
-## 📄 **License / مجوز**
+## 📄 License
 
-<div dir="ltr" align="center">
+<div dir="ltr">
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 </div>
 
-<div dir="rtl" align="center">
+<div dir="rtl">
 
 این پروژه تحت مجوز **MIT** منتشر شده است – برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
 
@@ -193,14 +205,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-<div dir="ltr" align="center">
+<div align="center">
 
-**❤️ Built with Flutter & Dart – for every WhatsApp user ❤️**
-
-</div>
-
-<div dir="rtl" align="center">
-
+**❤️ Built with Flutter & Dart – for every WhatsApp user ❤️**  
 **❤️ ساخته شده با Flutter و Dart – برای هر کاربر واتساپ ❤️**
 
 </div>
