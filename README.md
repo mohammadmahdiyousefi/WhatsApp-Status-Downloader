@@ -1,6 +1,6 @@
 <div align="center">
 
-  # <img src="https://afr-image-4.myket.ir/icons/large/239600da-6d55-4f5b-99f3-b61fe934f73b.png" width="40" height="40"/> **WhatsApp Status Saver** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
+  # <img alt="play_store_512 (2)" src="https://github.com/user-attachments/assets/3dcb343d-31fc-4bc2-a459-669ddac292fc" width="40" height="40" /> **WhatsApp Status Saver** <img src="https://img.icons8.com/color/48/000000/download--v1.png" width="40" height="40"/>
 
 ### **Save WhatsApp Statuses in Original Quality – One Tap, No Watermark**
 
@@ -54,11 +54,10 @@
 
 | Main Screen | Save Dialog | History |
 |:-----------:|:-----------:|:-------:|
-<img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
+<img width="180" alt="5" src="https://github.com/user-attachments/assets/3aec6a83-71a1-49fb-af59-5b715e2d5b18" />|<img width="180" alt="2" src="https://github.com/user-attachments/assets/7ff1d018-b14e-45ae-a33a-ca3f332d1878" />|<img width="180" alt="1" src="https://github.com/user-attachments/assets/4e88833b-5720-4320-b8a3-e40716383b36" /> |
 | صفحه اصلی | پنجره ذخیره | تاریخچه |
 |:---------:|:-----------:|:-------:|
-<img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Main+Screen" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=Save+Dialog" width="180" /> | <img src="https://via.placeholder.com/200x400.png?text=History" width="180" /> |
-</div>
+<img width="180" alt="3" src="https://github.com/user-attachments/assets/b89bc0ac-67a8-4712-9bca-738d23d95dc4" />|<img width="180"  alt="4" src="https://github.com/user-attachments/assets/094e130c-e67b-4b8f-933b-3e9a73e0d802" />|<img width="180"  alt="6" src="https://github.com/user-attachments/assets/673402e7-f440-456e-968f-77c441debeeb" /><</div>
 
 
 ---
